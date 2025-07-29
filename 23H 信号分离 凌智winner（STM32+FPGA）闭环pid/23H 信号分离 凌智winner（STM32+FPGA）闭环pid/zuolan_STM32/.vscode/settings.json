@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "ad9959.h": "c",
+        "commond_init.h": "c",
+        "main.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "stm32f4xx_hal.h": "c",
+        "string.h": "c",
+        "stdarg.h": "c",
+        "my_usart.h": "c",
+        "my_usart_pack.h": "c",
+        "my_hmi.h": "c",
+        "bsp_system.h": "c",
+        
+        "ad_measure.h": "c",
+        "my_fft.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c"
+    },
+    "cmake.sourceDirectory": "E:/MCU_Project/STM32/Drivers/CMSIS/NN"
+}

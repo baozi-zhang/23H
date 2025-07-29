@@ -1,0 +1,341 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : -96.419
+TNS   : -3108.888
+
+Type  : Slow 1200mV 85C Model Setup 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -11.405
+TNS   : -3938.254
+
+Type  : Slow 1200mV 85C Model Setup 'FPGA_CS_NEL'
+Slack : -7.140
+TNS   : -1708.623
+
+Type  : Slow 1200mV 85C Model Setup 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : -4.340
+TNS   : -144.973
+
+Type  : Slow 1200mV 85C Model Setup 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : -3.931
+TNS   : -131.074
+
+Type  : Slow 1200mV 85C Model Setup 'AD1_INPUT_CLK'
+Slack : -3.235
+TNS   : -70.344
+
+Type  : Slow 1200mV 85C Model Setup 'AD2_INPUT_CLK'
+Slack : -3.210
+TNS   : -75.704
+
+Type  : Slow 1200mV 85C Model Hold 'FPGA_CS_NEL'
+Slack : -4.768
+TNS   : -223.526
+
+Type  : Slow 1200mV 85C Model Hold 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : 0.351
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : 0.416
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.464
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'AD1_INPUT_CLK'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'AD2_INPUT_CLK'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -6.525
+TNS   : -402.255
+
+Type  : Slow 1200mV 85C Model Recovery 'AD1_INPUT_CLK'
+Slack : -2.492
+TNS   : -79.616
+
+Type  : Slow 1200mV 85C Model Recovery 'AD2_INPUT_CLK'
+Slack : -1.962
+TNS   : -62.144
+
+Type  : Slow 1200mV 85C Model Removal 'AD2_INPUT_CLK'
+Slack : 2.194
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'AD1_INPUT_CLK'
+Slack : 2.740
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.919
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : -4.000
+TNS   : -341.202
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'FPGA_CS_NEL'
+Slack : -3.201
+TNS   : -531.445
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : -3.201
+TNS   : -106.939
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : -3.201
+TNS   : -106.939
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'AD1_INPUT_CLK'
+Slack : -3.000
+TNS   : -52.071
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'AD2_INPUT_CLK'
+Slack : -3.000
+TNS   : -52.071
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.048
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : 9.934
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : -87.765
+TNS   : -2843.257
+
+Type  : Slow 1200mV 0C Model Setup 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -10.778
+TNS   : -3658.115
+
+Type  : Slow 1200mV 0C Model Setup 'FPGA_CS_NEL'
+Slack : -7.015
+TNS   : -1687.381
+
+Type  : Slow 1200mV 0C Model Setup 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : -4.053
+TNS   : -134.776
+
+Type  : Slow 1200mV 0C Model Setup 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : -3.623
+TNS   : -120.686
+
+Type  : Slow 1200mV 0C Model Setup 'AD1_INPUT_CLK'
+Slack : -2.791
+TNS   : -60.873
+
+Type  : Slow 1200mV 0C Model Setup 'AD2_INPUT_CLK'
+Slack : -2.771
+TNS   : -67.184
+
+Type  : Slow 1200mV 0C Model Hold 'FPGA_CS_NEL'
+Slack : -4.285
+TNS   : -201.808
+
+Type  : Slow 1200mV 0C Model Hold 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.415
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'AD1_INPUT_CLK'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'AD2_INPUT_CLK'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.954
+TNS   : -367.214
+
+Type  : Slow 1200mV 0C Model Recovery 'AD1_INPUT_CLK'
+Slack : -2.196
+TNS   : -70.144
+
+Type  : Slow 1200mV 0C Model Recovery 'AD2_INPUT_CLK'
+Slack : -1.736
+TNS   : -54.800
+
+Type  : Slow 1200mV 0C Model Removal 'AD2_INPUT_CLK'
+Slack : 1.929
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'AD1_INPUT_CLK'
+Slack : 2.425
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.414
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : -4.000
+TNS   : -341.734
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'FPGA_CS_NEL'
+Slack : -3.201
+TNS   : -493.834
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : -3.201
+TNS   : -106.939
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : -3.201
+TNS   : -106.939
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'AD1_INPUT_CLK'
+Slack : -3.000
+TNS   : -52.071
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'AD2_INPUT_CLK'
+Slack : -3.000
+TNS   : -52.071
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.047
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : 9.943
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : -42.490
+TNS   : -1291.782
+
+Type  : Fast 1200mV 0C Model Setup 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.252
+TNS   : -1782.512
+
+Type  : Fast 1200mV 0C Model Setup 'FPGA_CS_NEL'
+Slack : -3.367
+TNS   : -687.616
+
+Type  : Fast 1200mV 0C Model Setup 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : -1.378
+TNS   : -37.980
+
+Type  : Fast 1200mV 0C Model Setup 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : -1.164
+TNS   : -31.181
+
+Type  : Fast 1200mV 0C Model Setup 'AD1_INPUT_CLK'
+Slack : -0.868
+TNS   : -11.722
+
+Type  : Fast 1200mV 0C Model Setup 'AD2_INPUT_CLK'
+Slack : -0.861
+TNS   : -14.474
+
+Type  : Fast 1200mV 0C Model Hold 'FPGA_CS_NEL'
+Slack : -2.358
+TNS   : -109.317
+
+Type  : Fast 1200mV 0C Model Hold 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : 0.158
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'AD1_INPUT_CLK'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'AD2_INPUT_CLK'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.028
+TNS   : -186.942
+
+Type  : Fast 1200mV 0C Model Recovery 'AD1_INPUT_CLK'
+Slack : -0.605
+TNS   : -19.296
+
+Type  : Fast 1200mV 0C Model Recovery 'AD2_INPUT_CLK'
+Slack : -0.332
+TNS   : -10.160
+
+Type  : Fast 1200mV 0C Model Removal 'AD2_INPUT_CLK'
+Slack : 0.944
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'AD1_INPUT_CLK'
+Slack : 1.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.158
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'FPGA_CS_NEL'
+Slack : -3.000
+TNS   : -211.127
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'AD2_INPUT_CLK'
+Slack : -3.000
+TNS   : -40.984
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'AD1_INPUT_CLK'
+Slack : -3.000
+TNS   : -40.871
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DA_PARAMETER_CTRL:inst7|FREQ_OUT_A'
+Slack : -1.000
+TNS   : -166.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'FREQ_DEV:u_AD1_DEV|FREQ_OUT'
+Slack : -1.000
+TNS   : -65.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'FREQ_DEV:u_AD2_DEV|FREQ_OUT'
+Slack : -1.000
+TNS   : -65.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.128
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : 9.594
+TNS   : 0.000
+
+------------------------------------------------------------

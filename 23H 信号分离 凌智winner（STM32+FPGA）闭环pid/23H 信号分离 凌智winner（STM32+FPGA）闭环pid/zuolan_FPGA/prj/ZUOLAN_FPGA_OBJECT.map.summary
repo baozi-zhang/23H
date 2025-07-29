@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Jul 19 01:16:42 2025
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : ZUOLAN_FPGA_OBJECT
+Top-level Entity Name : TOP
+Family : Cyclone IV E
+Total logic elements : 4,571
+    Total combinational functions : 4,184
+    Dedicated logic registers : 950
+Total registers : 950
+Total pins : 80
+Total virtual pins : 0
+Total memory bits : 139,264
+Embedded Multiplier 9-bit elements : 16
+Total PLLs : 1

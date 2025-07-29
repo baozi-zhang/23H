@@ -1,0 +1,10 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,voltage_scaler_clocked:inst12|lpm_mult:Mult0|mult_3dt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,voltage_scaler_clocked:inst12|lpm_mult:Mult1|mult_3dt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,voltage_scaler_clocked:inst11|lpm_mult:Mult0|mult_3dt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,voltage_scaler_clocked:inst11|lpm_mult:Mult1|mult_3dt:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,voltage_scaler_clocked:inst12|lpm_mult:Mult0|mult_3dt:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,voltage_scaler_clocked:inst12|lpm_mult:Mult1|mult_3dt:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,voltage_scaler_clocked:inst11|lpm_mult:Mult0|mult_3dt:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,voltage_scaler_clocked:inst11|lpm_mult:Mult1|mult_3dt:auto_generated|mac_out4,
+PORT_SWAPPING,PORT_SWAPPING_FINISHED,voltage_scaler_clocked:inst12|lpm_mult:Mult0|mult_3dt:auto_generated|mac_mult3,

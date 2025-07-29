@@ -1,0 +1,341 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DA1_OUTCLK",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUTCLK",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_OUTCLK",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_OUTCLK",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DA1_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DA2_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[15]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[14]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[13]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[12]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[11]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[10]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[9]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[8]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_DB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_NL_NADV",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_WR_NWE",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_CS_NEL",
+					"strict" : false
+				},
+				{
+					"name" : "RST",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_RD_NOE",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT_CLK",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "AD1_INPUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "AD2_INPUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
